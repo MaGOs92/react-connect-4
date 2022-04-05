@@ -1,0 +1,23 @@
+{
+  "name": "@magos92/react-connect-4",
+  "version": "1.0.0",
+  "description": "Simple connect 4 game made with React and Typescript with an AI using the Minmax algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaGOs92/react-connect-4.git"
+  },
+  "keywords": [
+    "connect-4",
+    "minmax"
+  ],
+  "author": "Guillaume Fay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaGOs92/react-connect-4/issues"
+  },
+  "homepage": "https://github.com/MaGOs92/react-connect-4#readme"
+}
