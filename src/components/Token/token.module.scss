@@ -1,0 +1,36 @@
+@import '../../../variables.scss';
+
+.yellow {
+  background-color: $ia-color;
+}
+
+.innerYellow {
+  background-color: $ia-lighter-color;
+}
+
+.red {
+  background-color: $player-color;
+}
+
+.innerRed {
+  background-color: $player-lighter-color;
+}
+
+.previewToken {
+  opacity: 50%;
+}
+
+.token {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  height: 100%;
+  width: 100%;
+
+  > .inner {
+    border-radius: 50%;
+    height: 80%;
+    width: 80%;
+  }
+}
